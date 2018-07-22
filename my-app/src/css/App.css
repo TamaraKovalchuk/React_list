@@ -1,0 +1,85 @@
+body{
+  background: #F5F4F4;
+  margin: 2% 15%;
+}
+h1{
+  text-align: center;
+  font-size: 3em;
+  color: #373737;
+}
+ol{
+  padding: 0;
+}
+li{
+  padding: 5px 2px;
+  font-size: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.button{
+  display: flex;
+  align-items: center;
+  width: 175px;
+}
+.edit-btn{
+  background: #9AE192;
+  border: 3px solid #9AE192;
+  font-weight: bold;
+  padding: 5px;
+  margin-right: 10%;
+  font-size: 0.5em;
+}
+.edit-btn:hover{
+  border-color: #97BF92;
+}
+.del-btn{
+  background: #E19292;
+  border: 3px solid #E19292;
+  font-weight: bold;
+  padding: 5px;
+  font-size: 0.5em;
+}
+.del-btn:hover{
+  border-color: #B97979;
+}
+.icon-add2{
+  margin: 1% auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  padding: 1%;
+}
+.icon-add2:hover{
+  font-size: 100%
+}
+.p{
+  margin: 0 0 0 5%;
+  font-weight: bold;
+  font-size: 2em;
+
+}
+.form-edit{
+  display: flex;
+  justify-content: center;
+}
+.h2{
+  text-align: center;
+}
+.add{
+  background: #9AE192;
+  border: 3px solid #9AE192;
+  font-weight: bold;
+  margin-left: 1%
+}
+.close{
+  background: #E19292;
+  border: 3px solid #E19292;
+  font-weight: bold;
+  margin-left: 1%
+}
+input{
+  border: 3px solid #CCCCCC;
+}
