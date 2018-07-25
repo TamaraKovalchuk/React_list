@@ -86,3 +86,6 @@ input{
 .classEditing{
   font-size: 0.9em;
 }
+li .disabled{
+  margin-left: 540px;
+}

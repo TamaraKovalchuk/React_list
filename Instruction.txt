@@ -1,0 +1,13 @@
+1. build React_list_Axios:
+command: npm run-script build
+
+2. delete all files from G:\Study\IT\Courses\SoftServe\Zadachi\GitHub\React_list_Server\react-static
+
+3. Copy all files from React_list_Axios\my-app\build to G:\Study\IT\Courses\SoftServe\Zadachi\GitHub\React_list_Server\react-static
+
+4. Start MongoDB server from G:\Study\MongoDb
+
+5. Start nodejs back-end from ...\GitHub\React_list_Server:
+command: node express-ejs.js
+
+6. Open in browser: localhost:3000;
